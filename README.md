@@ -1,4 +1,4 @@
-# **Final Project**
+# **Telco Churn Analysis**
 
 ## **📌 Overview**
 
